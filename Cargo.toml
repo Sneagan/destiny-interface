@@ -1,7 +1,9 @@
 [package]
-name = "playgroud"
+name = "destiny-interface"
 version = "0.1.0"
 authors = ["Jackson Egan <jackson@sneagan.com>"]
 
 [dependencies]
 iron = "0.5.*"
+router = "*"
+rustc-serialize = "*"
